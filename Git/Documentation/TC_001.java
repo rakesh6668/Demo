@@ -6,6 +6,7 @@ public class TC_001 {
 		// TODO Auto-generated method stub
 		
 		String a="rakesh";
+		String b="rajesh";
 		
 
 	}
